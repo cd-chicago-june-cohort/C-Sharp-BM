@@ -1,0 +1,8 @@
+/Users/BM/Desktop/cSharp/boxing/bin/Debug/netcoreapp1.1/boxing.deps.json
+/Users/BM/Desktop/cSharp/boxing/bin/Debug/netcoreapp1.1/boxing.runtimeconfig.json
+/Users/BM/Desktop/cSharp/boxing/bin/Debug/netcoreapp1.1/boxing.runtimeconfig.dev.json
+/Users/BM/Desktop/cSharp/boxing/obj/Debug/netcoreapp1.1/boxing.AssemblyInfo.cs
+/Users/BM/Desktop/cSharp/boxing/bin/Debug/netcoreapp1.1/boxing.dll
+/Users/BM/Desktop/cSharp/boxing/bin/Debug/netcoreapp1.1/boxing.pdb
+/Users/BM/Desktop/cSharp/boxing/obj/Debug/netcoreapp1.1/boxing.dll
+/Users/BM/Desktop/cSharp/boxing/obj/Debug/netcoreapp1.1/boxing.pdb
