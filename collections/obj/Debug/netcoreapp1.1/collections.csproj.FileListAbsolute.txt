@@ -1,0 +1,8 @@
+/Users/BM/Desktop/cSharp/collections/bin/Debug/netcoreapp1.1/collections.deps.json
+/Users/BM/Desktop/cSharp/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.json
+/Users/BM/Desktop/cSharp/collections/bin/Debug/netcoreapp1.1/collections.runtimeconfig.dev.json
+/Users/BM/Desktop/cSharp/collections/bin/Debug/netcoreapp1.1/collections.dll
+/Users/BM/Desktop/cSharp/collections/bin/Debug/netcoreapp1.1/collections.pdb
+/Users/BM/Desktop/cSharp/collections/obj/Debug/netcoreapp1.1/collections.AssemblyInfo.cs
+/Users/BM/Desktop/cSharp/collections/obj/Debug/netcoreapp1.1/collections.dll
+/Users/BM/Desktop/cSharp/collections/obj/Debug/netcoreapp1.1/collections.pdb
