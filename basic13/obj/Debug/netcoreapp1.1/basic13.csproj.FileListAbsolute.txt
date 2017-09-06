@@ -1,0 +1,8 @@
+/Users/BM/Desktop/cSharp/basic13/bin/Debug/netcoreapp1.1/basic13.deps.json
+/Users/BM/Desktop/cSharp/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.json
+/Users/BM/Desktop/cSharp/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.dev.json
+/Users/BM/Desktop/cSharp/basic13/bin/Debug/netcoreapp1.1/basic13.dll
+/Users/BM/Desktop/cSharp/basic13/bin/Debug/netcoreapp1.1/basic13.pdb
+/Users/BM/Desktop/cSharp/basic13/obj/Debug/netcoreapp1.1/basic13.AssemblyInfo.cs
+/Users/BM/Desktop/cSharp/basic13/obj/Debug/netcoreapp1.1/basic13.dll
+/Users/BM/Desktop/cSharp/basic13/obj/Debug/netcoreapp1.1/basic13.pdb
