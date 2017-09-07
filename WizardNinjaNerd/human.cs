@@ -6,8 +6,6 @@ namespace WizardNerd
     {
         public string name;
 
-        //The { get; set; } format creates accessor methods for the field specified
-        //This is done to allow flexibility
         public int health { get; set; }
         public int strength { get; set; }
         public int intelligence { get; set; }
@@ -31,14 +29,14 @@ namespace WizardNerd
         }
         public void attack(object obj)
         {
-            Human enemy = obj as Human;
-            if (enemy == null)
+            Human victim = obj as Human;
+            if (victim == null)
             {
                 Console.WriteLine("Failed Attack");
             }
             else
             {
-                enemy.health -= strength * 5;
+                victim.health -= strength * 5;
             }
         }
     }

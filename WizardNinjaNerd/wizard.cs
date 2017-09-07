@@ -15,11 +15,13 @@ namespace WizardNerd
 
         public void fireballs(Human victim)
         {
-            Random rand = new Random();
-            int ballshot = rand.Next(25,50);
-            victim.health -= ballshot;
-            Console.WriteLine($"FIREBALLS!!  Minus {ballshot} points!");
-
+            if (victim != null)
+            {
+                Random rand = new Random();
+                int ballshot = rand.Next(25, 50);
+                victim.health -= ballshot;
+                Console.WriteLine($"FIREBALLS!!  Minus {ballshot} points!");
+            }
         }
 
     }
