@@ -1,0 +1,8 @@
+/Users/BM/Desktop/cSharp/human/bin/Debug/netcoreapp1.1/human.deps.json
+/Users/BM/Desktop/cSharp/human/bin/Debug/netcoreapp1.1/human.runtimeconfig.json
+/Users/BM/Desktop/cSharp/human/bin/Debug/netcoreapp1.1/human.runtimeconfig.dev.json
+/Users/BM/Desktop/cSharp/human/bin/Debug/netcoreapp1.1/human.dll
+/Users/BM/Desktop/cSharp/human/bin/Debug/netcoreapp1.1/human.pdb
+/Users/BM/Desktop/cSharp/human/obj/Debug/netcoreapp1.1/human.AssemblyInfo.cs
+/Users/BM/Desktop/cSharp/human/obj/Debug/netcoreapp1.1/human.dll
+/Users/BM/Desktop/cSharp/human/obj/Debug/netcoreapp1.1/human.pdb
