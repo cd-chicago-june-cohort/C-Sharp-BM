@@ -24,7 +24,7 @@ namespace human
                 ExplicitHuman.health -= (5 * strength);
             }
             else{
-                Console.WriteLine("INPUT MUST BE OF TYPE HUMAN TO ATTACK!");
+                Console.WriteLine("Are we not human?  Yes, we are not human.");
             }
         }
 
