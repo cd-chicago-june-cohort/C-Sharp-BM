@@ -1,0 +1,8 @@
+/Users/BM/Desktop/cSharp/puzzles/bin/Debug/netcoreapp1.1/puzzles.deps.json
+/Users/BM/Desktop/cSharp/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.json
+/Users/BM/Desktop/cSharp/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.dev.json
+/Users/BM/Desktop/cSharp/puzzles/bin/Debug/netcoreapp1.1/puzzles.dll
+/Users/BM/Desktop/cSharp/puzzles/bin/Debug/netcoreapp1.1/puzzles.pdb
+/Users/BM/Desktop/cSharp/puzzles/obj/Debug/netcoreapp1.1/puzzles.AssemblyInfo.cs
+/Users/BM/Desktop/cSharp/puzzles/obj/Debug/netcoreapp1.1/puzzles.dll
+/Users/BM/Desktop/cSharp/puzzles/obj/Debug/netcoreapp1.1/puzzles.pdb

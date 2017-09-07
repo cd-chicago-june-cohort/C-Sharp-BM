@@ -121,7 +121,7 @@ namespace basic13
                     min = arr[i];
                 }
                 if(arr[i] > max){
-                    max = arr[k];
+                    max = arr[i];
                 }
                 sum += arr[i];
             }
