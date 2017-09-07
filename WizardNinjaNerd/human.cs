@@ -1,6 +1,6 @@
 using System;
 
-namespace human
+namespace WizardNerd
 {
     public class Human
     {
